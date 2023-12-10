@@ -1,5 +1,4 @@
 # CAT201-Assignment1
-[![Video Demonstration: 55]          // Title
-(https://youtu.be/9e6Q68Rm13o "Video Demonstration: 55")    // Video Link
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 
